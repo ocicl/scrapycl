@@ -7,3 +7,4 @@ The web scraping framework for writing crawlers in Common Lisp.
 | commit  | 919073f                                    |
 | systems | scrapycl                                   |
 |---------+--------------------------------------------|
+ 
