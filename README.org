@@ -4,7 +4,7 @@ The web scraping framework for writing crawlers in Common Lisp.
 
 |---------+--------------------------------------------|
 | source  | git:https://github.com/40ants/scrapycl.git |
-| commit  | da5893e                                    |
+| commit  | f4737c0                                    |
 | systems | scrapycl                                   |
 |---------+--------------------------------------------|
    
